@@ -28,7 +28,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 Developer Portfolio <a name="about-project"></a>
+# 📖 [project-name] <a name="about-project"></a>
 
 My **Developer Portfolio** showcases my development projects, highlights my skills as a developer and assists interested parties to learn more about me and contact me regarding future opportunities.
 
@@ -51,15 +51,15 @@ My **Developer Portfolio** showcases my development projects, highlights my skil
 
 ### Key Features <a name="key-features"></a>
 
-- **Project Library**
-- **Bio**
-- **Contact Form**
+- **Key Feature1**
+- **Key Feature2**
+- **Key Feature3**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [See Live Demo](https://drod86.github.io/)
+- [See Live Demo](https://drod86.github.io/[repo-name])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Drod86/Drod86.github.io.git
+  git clone https://github.com/Drod86/[repo-name].git
 ```
 
 ### Install
@@ -102,8 +102,7 @@ Run this command:
 To run the project, execute the following command:
 
 ```sh
-  cd src/
-  live-server
+  npm start
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,15 +118,15 @@ To run the project, execute the following command:
 
 ## 👥 Collaborator(s) <a name="authors"></a>
 
-👤 **Walid Ali**
+👤 **Collaborator's Name**
 
-- GitHub: [ammarAlaliS](https://github.com/ammarAlaliS)
+- GitHub: [@Username](https://github.com/Username)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **Modal back and next buttons and functionality**
-- [ ] **Real projects**
+- [ ] **Future Feature1**
+- [ ] **Future Feature2**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
