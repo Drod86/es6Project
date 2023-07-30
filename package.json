@@ -1,0 +1,17 @@
+{
+  "name": "es6projecttemplate",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserlist": ">0.3%, defaults, supports es6-module, maintained node versions",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Daniel Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
