@@ -1,11 +1,13 @@
+const pageContainer = document.querySelector('.page');
+
 const routes = {};
 
 const addRoute = (path, page) => routes[path] = page;
 
-const router = (node) => {
+const router = () => {
   window.addEventListener('popstate', () => {
     let pageName = window.location.hash.substring(1)
-    node.innerHTML = routes[pageName];
+    pageContainer.innerHTML = routes[pageName];
     }
   )
 }
