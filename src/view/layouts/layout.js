@@ -1,4 +1,3 @@
-
 const renderLayout = (homePage) => {
   const BODY = document.querySelector('body');
   const app = `
@@ -6,8 +5,8 @@ const renderLayout = (homePage) => {
     <a href="#about" class="about">ABOUT</a>
     <div class="page">
     ${homePage}
-    </div>`
+    </div>`;
   BODY.innerHTML = app;
-}
+};
 
 export default renderLayout;
