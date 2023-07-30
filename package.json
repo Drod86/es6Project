@@ -16,6 +16,9 @@
   "keywords": [],
   "author": "Daniel Rodriguez",
   "license": "MIT",
+  "dependencies":{
+    "lighthouse":"^10.2.0"
+  },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
