@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "source": "src/index.html",
-  "browserlist": ">0.3%, defaults, supports es6-module, maintained node versions",
+  "browserslist": ">0.3%, defaults, supports es6-module, maintained node versions",
+  "targets": {
+    "default": {
+      "distDir": "./docs"
+    }
+  },
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
