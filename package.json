@@ -14,8 +14,15 @@
     "build": "rm -rf docs/ dist/ && parcel build --public-url=''"
   },
   "keywords": [],
+  "repository":{
+    "type":"git",
+    "url":"git+https://github.com/Drod86/es6Project"
+  },
   "author": "Daniel Rodriguez",
   "license": "MIT",
+  "bugs":{
+    "url":"https://github.com/Drod86/Hello_Microverse/issues"
+  },
   "dependencies":{
     "lighthouse":"^10.2.0"
   },
