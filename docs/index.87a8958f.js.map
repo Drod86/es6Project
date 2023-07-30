@@ -1,1 +1,0 @@
-{"mappings":"ACEA,QAAQ,GAAA,CAAI","sources":["<anon>","src/app.js"],"sourcesContent":["\n// Import the layout Elements\nconsole.log(Testing);\n\n\n//# sourceMappingURL=index.87a8958f.js.map\n","import './global.css';\n// Import the layout Elements\nconsole.log(Testing);"],"names":["console","log","Testing"],"version":3,"file":"index.87a8958f.js.map"}
