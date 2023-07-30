@@ -1,9 +1,9 @@
 import './global.css';
 // Import the layout Elements
-import renderLayout from './view/layouts/layout.js';
+import renderLayout from './views/layout.js';
 
 // Add Page Routing
-import { router, addRoute } from './controller/routes.js';
+import { router, addRoute } from './controllers/router.js';
 
 const home = '<div>THIS IS THE HOME PAGE VIEW</div>';
 const about = '<div>this is the about page view</div>';
