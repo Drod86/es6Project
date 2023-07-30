@@ -1,8 +1,0 @@
-.red {
-  color: blue;
-}
-
-.heading {
-  composes: red;
-  text-decoration: dashed;
-}
