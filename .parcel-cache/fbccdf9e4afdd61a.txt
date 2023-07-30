@@ -39,7 +39,7 @@
 82C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\escalade133351451880541654 1
 105C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\htmlnano\docs\package-lock.json133351451901528926 0
 82C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\svgo\lib133351451909093789 1
-65C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist133351491157870116 1
+65C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist133351502016392548 1
 86C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\.bin\js-yaml133351451955752474 0
 71C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\src\app.js133351490483530082 0
 120C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\csso\node_modules\mdn-data\css\properties.json133351451891464860 0
@@ -69,7 +69,7 @@
 118C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\utility-types\dist\aliases-and-guards.js.map133351451880586744 0
 92C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\@parcel\logger\src133351451870979406 1
 131C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\050-modules.md133351451906046908 0
-75C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\src\index.html133351488020486805 0
+75C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\src\index.html133351501308351437 0
 147C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeXMLProcInst.js133351451906146976 0
 107C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\caniuse-lite\data\features\svg.js133351451949689847 0
 141C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Raw.js133351451912416525 0
@@ -266,7 +266,7 @@
 108C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\node-addon-api\tools\conversion.js133351451887747480 0
 82C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\error-ex133351451871459700 1
 128C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\csso\node_modules\css-tree\lib\syntax\node\Selector.js133351451924811674 0
-88C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.b16c3a40.css.map133351491157720119 0
+88C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.b16c3a40.css.map133351502016342473 0
 92C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\json5\lib\index.js133351451872931257 0
 100C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\term-size\vendor\.DS_Store133351451867772246 0
 94C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\escape-string-regexp133351451871399479 1
@@ -3290,7 +3290,7 @@
 106C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\css-tree\cjs\tokenizer\index.cjs133351451907142635 0
 129C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\css-select\lib\esm\pseudo-selectors\subselects.d.ts.map133351451905291222 0
 104C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\css-tree\cjs\syntax\create.cjs133351451895752914 0
-83C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.0c58ff51.js133351491157570139 0
+83C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.0c58ff51.js133351502016222476 0
 98C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\css-tree\cjs\syntax\node133351451916609984 1
 96C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\color-convert\route.js133351451878745414 0
 134C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-plaintext.js133351451942914099 0
@@ -4157,7 +4157,7 @@
 111C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\caniuse-lite\data\features\datauri.js133351451928578999 0
 126C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133351451928804660 0
 111C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\caniuse-lite\data\features\details.js133351451928934671 0
-84C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.b16c3a40.css133351491157570139 0
+84C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.b16c3a40.css133351502016222476 0
 151C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Dimension.js133351451901248768 0
 108C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\@parcel\packager-html\package.json133351451873876740 0
 115C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\@swc\helpers\cjs\_object_spread_props.cjs133351451905531651 0
@@ -5924,5 +5924,5 @@
 85C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\.bin\semver133351451955782408 0
 89C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\.bin\semver.cmd133351451955782408 0
 87C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\node_modules\.bin\svgo.cmd133351451955782408 0
-87C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.0c58ff51.js.map133351491157840280 0
-76C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.html133351491157480199 0
+87C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.0c58ff51.js.map133351502016352481 0
+76C:\Users\drodr\OneDrive\Desktop\Workspace\es6ProjectTemplate\dist\index.html133351502016157159 0
