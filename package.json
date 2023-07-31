@@ -27,6 +27,7 @@
     "lighthouse": "^10.2.0"
   },
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",

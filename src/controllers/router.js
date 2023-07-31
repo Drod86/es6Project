@@ -1,13 +1,13 @@
-const pageContainer = document.querySelector('.page');
+import { render } from "../utils/utils";
 
 const routes = {};
 
 const addRoute = (path, page) => { routes[path] = page; };
 
-const router = () => {
+const router = (container) => {
   window.addEventListener('popstate', () => {
     const pageName = window.location.hash.substring(1);
-    pageContainer.innerHTML = routes[pageName];
+    render(container, routes[pageName])
   });
 };
 
