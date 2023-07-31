@@ -30,7 +30,7 @@
 
 # 📖 [project-name] <a name="about-project"></a>
 
-My **Developer Portfolio** showcases my development projects, highlights my skills as a developer and assists interested parties to learn more about me and contact me regarding future opportunities.
+This template is set up to use ES6 modules and scss in css modules format  to use a component focused approach to build a static web app for github pages. Microverse student linter configurations are in place.
 
 ## 🛠 Built With <a name="built-with"></a>
 
